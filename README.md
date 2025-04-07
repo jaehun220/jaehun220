@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![jaehun220 GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehun220&show_icons=true&theme=radical)](https://github.com/jaehun220/github-readme-stats)
-
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 <!--
 **jaehun220/jaehun220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
