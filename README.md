@@ -33,7 +33,7 @@
         <div style="text-align: left;"> 
             <img src="https://github-readme-stats.vercel.app/api?username=jaehun220&show_icons=true&theme=tokyonight"/>
             <br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehun220&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehun220&show_icons=true&theme=tokyonight"/>
         </div> 
     </div>
     
