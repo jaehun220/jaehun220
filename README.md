@@ -24,8 +24,7 @@
     </div>
 <div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Github Stats</h2>  
-    [![jaehun220 GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehun220&show_icons=true&theme=radical)](https://github.com/jaehun220/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehun220)](https://github.com/jaehun220/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehun220&show_icons=true&theme=radical&layout=compact)](https://github.com/jaehun220/github-readme-stats)
 
 </div>
