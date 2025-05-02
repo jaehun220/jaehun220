@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> INTRODUCTION </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>안녕하세요. 영남대에 재학중인 이재훈입니다.</li><li>현재 웹 프론트엔드 및 앱 제작에 대한 공부중입니다.</li><li>풀스택 개발자가 되는것이 목표입니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>안녕하세요. 영남대 컴퓨터공학과에 재학중인 이재훈입니다.</li><li>현재 웹 프론트엔드 및 앱 제작에 대한 공부중입니다.</li><li>풀스택 개발자가 되는것이 목표입니다! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
