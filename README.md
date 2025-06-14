@@ -37,6 +37,7 @@
         </div> 
     </div>
     <h2 style="text-align: left;">
+        <img src="https://github.com/user-attachments/assets/9e2df025-efc8-4b08-9e75-7ab2ed49f692">
         <div style="text-align: left;">
           <img src="https://badge.mediaplus.ma/darkblue/jaehlee" alt="jaehlee's 42 stats">
         </div>
