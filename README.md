@@ -36,7 +36,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehun220&show_icons=true&theme=tokyonight"/>
         </div> 
     </div>
-    <h2 style="text-align: left;">42</h2>
+    <h2 style="text-align: left;">42 cadet</h2>
         <div style="text-align: left;">
           <img src="https://badge.mediaplus.ma/darkblue/jaehlee" alt="jaehlee's 42 stats">
         </div>
