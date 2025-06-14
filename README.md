@@ -36,4 +36,9 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehun220&show_icons=true&theme=tokyonight"/>
         </div> 
     </div>
+    <h2 style="text-align: left;">
+        <div style="text-align: left;">
+        [![jaehlee's 42 stats](https://badge.mediaplus.ma/darkblue/jaehlee)](https://github.com/oakoudad/badge42)
+        </div>
+    </h2>
     
