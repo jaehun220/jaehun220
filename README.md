@@ -43,5 +43,3 @@
         <div style="text-align: left;">
           <img src="https://badge.mediaplus.ma/darkblue/jaehlee" alt="jaehlee's 42 stats">
         </div>
-
-    
