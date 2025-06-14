@@ -36,7 +36,10 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehun220&show_icons=true&theme=tokyonight"/>
         </div> 
     </div>
-    <h2 style="text-align: left; align-items:center"><img src="https://github.com/jaehun220/test-repo/blob/main/42log.png?raw=true" width=3% height=3%> 42 cadet</h2>
+    <h2 style="display: flex; align-items: center; text-align: left;">
+      <img src="https://github.com/jaehun220/test-repo/blob/main/42log.png?raw=true" style="width: 24px; height: 24px; margin-right: 8px;">
+      42 cadet
+    </h2>
         <div style="text-align: left;">
           <img src="https://badge.mediaplus.ma/darkblue/jaehlee" alt="jaehlee's 42 stats">
         </div>
