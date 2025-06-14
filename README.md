@@ -38,7 +38,7 @@
     </div>
     <h2 style="text-align: left;">
         <div style="text-align: left;">
-        [![jaehlee's 42 stats](https://badge.mediaplus.ma/darkblue/jaehlee)](https://github.com/oakoudad/badge42)
+          <img src="https://badge.mediaplus.ma/darkblue/jaehlee" alt="jaehlee's 42 stats">
         </div>
     </h2>
     
