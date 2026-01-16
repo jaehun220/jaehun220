@@ -26,14 +26,6 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-        <div style="text-align: left;"> 
-            <img src="https://github-readme-stats.vercel.app/api?username=jaehun220&show_icons=true&theme=tokyonight"/>
-            <br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehun220&show_icons=true&theme=tokyonight"/>
-        </div> 
-    </div>
     <h2 style="display: flex; align-items: center; text-align: left;">
       <img src="https://github.com/jaehun220/test-repo/blob/main/42log.png?raw=true" style="width: 24px; height: 24px; margin-right: 8px;">
       42 cadet
